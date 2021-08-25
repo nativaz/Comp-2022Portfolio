@@ -1,4 +1,4 @@
-## Welcome to Natalia'a Portfolio
+## Welcome to Natalia's Portfolio
 
 You can use the [editor on GitHub](https://github.com/nativaz/Comp-2022Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
